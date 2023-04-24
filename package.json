@@ -4,7 +4,7 @@
   "description": "",
   "main": "main.js",
   "dependencies": {
-    "jshint": "^2.9.5"
+    "jshint": "^2.13.6"
   },
   "devDependencies": {},
   "scripts": {
